@@ -1,4 +1,4 @@
-# TreinaWeb: ["Workshop Multi-stack 03"](https://www.treinaweb.com.br/painel/multi-stack)
+# TreinaWeb: ["Workshop Multi-stack 03"]()
 
 ## Projeto "Adote um Pet" (React + Next.js)
 
